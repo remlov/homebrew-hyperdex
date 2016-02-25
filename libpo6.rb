@@ -2,8 +2,8 @@ require 'formula'
 
 class Libpo6 < Formula
   homepage 'http://hyperdex.org'
-  url 'http://hyperdex.org/src/libpo6-0.5.2.tar.gz'
-  sha1 'dcbce34fe3f1032381e125204168dac71d159ec3'
+  url 'http://hyperdex.org/src/libpo6-0.8.0.tar.gz'
+  sha256 '5aedaf96326fe76f6b71bcc7713a741fcdeb694a8c818ca240c74b61de4e4b0d'
 
   depends_on 'autoconf'
   depends_on 'automake'
